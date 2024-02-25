@@ -1,10 +1,8 @@
 - 👋 Hey Everyone, I’m Kishore Prasad Macha
 - 👀 I’m passioned DevOps Engineer. I am working at Kering Americas.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kishoreprasadmacha@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 ![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/a12250e4-2eb9-4d1e-b7ea-493909fd46a8)
 ![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/54ebb4e0-393e-4cf0-839b-1af91aa4f488)
@@ -24,7 +22,7 @@
 ![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/f043775c-168c-436d-8d2d-ab2bc6d53a10)
 
 
-
+[![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishorepr01)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 <!---
 Kishorepm01/Kishorepm01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
