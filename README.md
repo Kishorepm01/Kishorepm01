@@ -9,7 +9,6 @@
 ![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/a12250e4-2eb9-4d1e-b7ea-493909fd46a8)
 ![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/54ebb4e0-393e-4cf0-839b-1af91aa4f488)
 ![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/ebd79419-00c3-4709-9374-317f7fa1aff0)
-![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/d1aafaeb-0776-45e3-b2a5-16d372c795ab)
 ![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/40756b85-6ecd-4f53-afe1-9a66857a13d3)
 ![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/b31c7408-a448-4dca-a395-f6b11d3e03b4)
 ![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/7388f16a-a11d-4f7f-b818-76ba29f74c44)
