@@ -21,7 +21,7 @@
 ![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/2e4ab2e9-1fcc-49a6-98da-97ce5987483a)
 ![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/f043775c-168c-436d-8d2d-ab2bc6d53a10)
 
-![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishorepm01&show_icons=true&bg_color=00000000)
+![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishorepm01&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 
 <!---
 Kishorepm01/Kishorepm01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
