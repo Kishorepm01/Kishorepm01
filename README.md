@@ -1,30 +1,28 @@
-👋 Hey Everyone, I’m Kishore Prasad Macha
-- 👀 I’m passioned DevOps Engineer. I am working at Kering Americas.
-- 🌱 I’m currently learning ...
-- 📫 How to reach me kishoreprasadmacha@gmail.com
+![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)
+<h1 align="center">Hi Everyone 👋, I'm Kishore Prasad Macha</h1>
+<h3 align="center">Passionate DevOps Engineer from Wayne, NJ. Currently working at Kering Americas. Turning code into solutions! 🚀</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+- 🔭 I’m currently working on Corporate DevOps Security Tools | DevSecOps
 
-![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/a12250e4-2eb9-4d1e-b7ea-493909fd46a8)
-![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/54ebb4e0-393e-4cf0-839b-1af91aa4f488)
-![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/ebd79419-00c3-4709-9374-317f7fa1aff0)
-![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/40756b85-6ecd-4f53-afe1-9a66857a13d3)
-![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/b31c7408-a448-4dca-a395-f6b11d3e03b4)
-![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/7388f16a-a11d-4f7f-b818-76ba29f74c44)
-![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/16fd95f2-59bb-4e17-a218-2c6643607e02)
-![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/91a0f185-72be-491e-9d97-1d0bf0794cbb)
-![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/89013186-8bcd-4f2a-ac18-ac0f71ccae9c)
-![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/719e83eb-3386-46dc-a9f5-a89514df06bc)
-![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/bc79c85b-61e0-4c7e-bdac-ba754ab852fb)
-![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/b9e4d553-5759-4269-b593-951f84a1a63a)
-![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/aedf8a2b-ab7c-4491-be19-baf3e40eac9f)
-![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/bc3212de-0721-4c37-b667-c6aea61f5e91)
-![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/2e4ab2e9-1fcc-49a6-98da-97ce5987483a)
-![image](https://github.com/Kishorepm01/Kishorepm01/assets/161185032/f043775c-168c-436d-8d2d-ab2bc6d53a10)
+- 🌱 I’m currently learning **MLOPS**
 
-![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishorepm01&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
+- 👨‍💻 All of my projects are available at [https://github.com/kishorepm01](https://github.com/kishorepm01)
 
-<!---
-Kishorepm01/Kishorepm01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-          
+- 💬 Ask me about **DevOps & Cloud DevOps**
+  
+- 📫 How to reach me **kishoreprasadmacha@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/kishoreprasadmacha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kishoreprasadmacha" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishorepm01&show_icons=true&locale=en&layout=compact" alt="kishorepm01" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishorepm01&show_icons=true&locale=en" alt="kishorepm01" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishorepm01&" alt="kishorepm01" /></p>
