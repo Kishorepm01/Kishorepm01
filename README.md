@@ -1,4 +1,4 @@
-- 👋 Hey Everyone, I’m Kishore Prasad Macha
+👋 Hey Everyone, I’m Kishore Prasad Macha
 - 👀 I’m passioned DevOps Engineer. I am working at Kering Americas.
 - 🌱 I’m currently learning ...
 - 📫 How to reach me kishoreprasadmacha@gmail.com
