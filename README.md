@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MLOPS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kishorepm01/DevOpsProjects](https://github.com/kishorepm01/DevOpsProjects)
+- 👨‍💻 All of my projects are available at [https://github.com/kishorepm01/DevOpsProjects](https://github.com/kishorepm01/DevOpsProjects) & [https://github.com/Kishorepm01/DevOpsDocuments.git] (https://github.com/Kishorepm01/DevOpsDocuments.git)
 
 - 💬 Ask me about **DevOps & Cloud DevOps**
   
